@@ -1,4 +1,4 @@
-package com.exercicejenkins;
+package com.demo;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

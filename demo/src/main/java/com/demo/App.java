@@ -1,4 +1,4 @@
-package com.exercicejenkins;
+package com.demo;
 
 /**
  * Hello world!
